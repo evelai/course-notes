@@ -72,3 +72,19 @@ table td {
 table th {
   text-align: left;
 }
+
+.md, .lg {
+  margin-right: 50px;
+}
+
+.sm {
+  width: 50px;
+}
+
+.md {
+  width: 100px;
+}
+
+.lg {
+  width: 200px;
+}
