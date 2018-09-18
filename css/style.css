@@ -73,6 +73,11 @@ table th {
   text-align: left;
 }
 
+.emoji {
+  font-size: 300%;
+  line-height: 0.25;
+}
+
 .md, .lg {
   margin-right: 50px;
 }
